@@ -1,2 +1,2 @@
 # printf
-Recode de printf. Ce projet porte principalement sur les arguments de taille variable.
+Recode de printf (cette version est adapté pour tourner sous système GNU/Linux). Ce projet porte principalement sur les arguments de taille variable.
